@@ -1,0 +1,21 @@
+item count --verbose --max-quality 4 --type SCEPTER
+item count --verbose --max-quality 4 --type FIGURINE
+item count --verbose --max-quality 4 --type AMULET
+item count --verbose --max-quality 4 --type CROWN
+item count --verbose --max-quality 4 --type RING
+item count --verbose --max-quality 4 --type BRACELET
+item count --verbose --max-quality 4 --type EARRING
+item count --verbose --max-quality 4 --type GLOVES --mat-category cloth
+item count --verbose --max-quality 4 --type GLOVES --mat-category silk
+item count --verbose --max-quality 4 --type GLOVES --mat-category leather
+item count --verbose --max-quality 4 --type SHOES --mat-category cloth
+item count --verbose --max-quality 4 --type SHOES --mat-category silk
+item count --verbose --max-quality 4 --type SHOES --mat-category leather
+item count --verbose --max-quality 4 --type ARMOR --mat-category cloth
+item count --verbose --max-quality 4 --type ARMOR --mat-category silk
+item count --verbose --max-quality 4 --type ARMOR --mat-category leather
+item count --verbose --max-quality 4 --type PANTS --mat-category cloth
+item count --verbose --max-quality 4 --type PANTS --mat-category silk
+item count --verbose --max-quality 4 --type PANTS --mat-category leather
+
+
